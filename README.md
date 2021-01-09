@@ -5,5 +5,6 @@ Example Golang Architecture & implementation RESTful API
 - Validation : Validator
 - Configuration : GoDotEnv
 - Database : PostgreSQL
-- Database System : Gorm
+- Database System ORM : Gorm
 - Migration : Goose
+## Architecture
